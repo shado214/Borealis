@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "mission": "Notre Mission",
+    "about": "À Propos",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "theme": "Changer le thème"
+  },
+  "brand": {
+    "name": "Innovations Boréalis",
+    "slogan": "La lumière de votre transformation numérique"
+  },
+  "hero": {
+    "title": "Propulser les Entreprises par la Technologie",
+    "subtitle": "Nous créons des solutions innovantes pour le web, mobile et entreprise pour illuminer votre parcours numérique",
+    "cta": "Démarrez Votre Parcours"
+  },
+  "mission": {
+    "title": "Notre Mission",
+    "description": "Chez Innovations Boréalis, nous nous efforçons d'être le phare de la transformation numérique, illuminant la voie vers l'innovation avec des solutions de pointe qui permettent aux entreprises d'atteindre de nouveaux sommets."
+  },
+  "about": {
+    "title": "Notre Équipe",
+    "subtitle": "Rencontrez les innovateurs derrière Boréalis",
+    "team": {
+      "samir": {
+        "name": "Samir Mesbah",
+        "role": "Analyste d'Affaires & Développeur Frontend",
+        "bio": "Le Capitaine Samir Mesbah allie leadership militaire et expertise technique acquise durant ses 10 années de service en tant qu'Officier de la Transformation Numérique et de la Gestion de l'Information. Fort d'une formation en Informatique et en Design Graphique, il se spécialise en Analyse d'Affaires et en Développement Frontend. Son expertise en Développement Full Stack et en Architecture des Systèmes lui permet de transformer des exigences complexes en solutions centrées sur l'utilisateur qui s'alignent avec les objectifs stratégiques."
+      },
+      "michael": {
+        "name": "Michael Laplaine-Pereira",
+        "role": "Développeur Frontend/Backend",
+        "bio": "Le Capitaine Michael Laplaine-Pereira allie le leadership militaire pratique à une expertise technique approfondie en développement logiciel. Au cours de ses 10 années de service en tant qu'Officier des Opérations et Commandant de Peloton d'Infanterie dans les Forces Armées Canadiennes, il a perfectionné ses compétences en planification stratégique et en leadership d'équipe. Sa formation en génie logiciel, associée à son expertise en développement frontend et backend, lui permet de fournir des solutions techniques complètes tout en maintenant l'approche disciplinée inculquée par son service militaire."
+      },
+      "jean": {
+        "name": "Jean-Philippe Nadeau",
+        "role": "Stratège d'Affaires en Chef",
+        "bio": "Le Major Jean-Philippe Nadeau occupe le poste de Stratège d'Affaires en Chef, apportant 15 années de service distingué en tant qu'Officier de la Logistique dans les Forces Armées Canadiennes au secteur privé. Son vaste expérience en logistique militaire, combinée à sa formation en administration des affaires, lui confère une perspective unique sur l'efficacité organisationnelle et la planification stratégique. En tant qu'ancien Major, il applique la même précision et approche systématique à la stratégie d'entreprise qu'il utilisait dans les opérations logistiques militaires, garantissant que la croissance de notre entreprise s'aligne sur des objectifs stratégiques clairs."
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Notre Portfolio",
+    "subtitle": "Démonstration d'Innovation et d'Excellence",
+    "projects": {
+      "enterprise": {
+        "title": "Gestion des Ressources d'Entreprise",
+        "description": "Une solution ERP complète pour les opérations manufacturières à grande échelle, avec analyses en temps réel et capacités de maintenance prédictive.",
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80"
+      },
+      "healthcare": {
+        "title": "Plateforme d'Analyse de Santé",
+        "description": "Système avancé d'analyse de données patients avec gestion sécurisée des données et insights alimentés par l'IA pour les prestataires de soins de santé.",
+        "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=800&q=80"
+      },
+      "logistics": {
+        "title": "Système Logistique Militaire",
+        "description": "Solution personnalisée de gestion logistique pour les opérations militaires, avec suivi en temps réel et optimisation des stocks.",
+        "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=800&q=80"
+      }
+    }
+  },
+  "services": {
+    "title": "Nos Services",
+    "subtitle": "Solutions Complètes pour Entreprises Modernes",
+    "web": {
+      "title": "Applications Web",
+      "description": "Applications web modernes et réactives construites avec des technologies de pointe"
+    },
+    "mobile": {
+      "title": "Applications Mobiles",
+      "description": "Solutions natives et multiplateformes pour iOS et Android"
+    },
+    "desktop": {
+      "title": "Applications Windows",
+      "description": "Solutions Windows personnalisées optimisées pour la performance et l'utilisabilité"
+    },
+    "database": {
+      "title": "Solutions de Base de Données",
+      "description": "Architectures de bases de données évolutives et services d'optimisation"
+    },
+    "enterprise": {
+      "title": "Plateformes Entreprise",
+      "description": "Solutions Microsoft Power Platform et Oracle APEX pour les besoins entreprises"
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "description": "Prêt à commencer votre transformation numérique? Contactez-nous dès aujourd'hui.",
+    "form": {
+      "name": "Nom",
+      "email": "Courriel",
+      "message": "Message",
+      "submit": "Envoyer",
+      "success": "Message envoyé avec succès! Nous vous contacterons bientôt.",
+      "error": "Une erreur s'est produite lors de l'envoi du message. Veuillez réessayer."
+    }
+  }
+}

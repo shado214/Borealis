@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "home": "Home",
+    "mission": "Our Mission",
+    "about": "About Us",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "theme": "Toggle theme"
+  },
+  "brand": {
+    "name": "Borealis Innovations",
+    "slogan": "Illuminating Your Digital Transformation"
+  },
+  "hero": {
+    "title": "Empowering Business Through Technology",
+    "subtitle": "We create innovative solutions across web, mobile, and enterprise platforms to illuminate your digital journey",
+    "cta": "Start Your Journey"
+  },
+  "mission": {
+    "title": "Our Mission",
+    "description": "At Borealis Innovations, we strive to be the guiding light in digital transformation, illuminating the path to innovation with cutting-edge solutions that empower businesses to reach new heights."
+  },
+  "about": {
+    "title": "Our Team",
+    "subtitle": "Meet the innovators behind Borealis",
+    "team": {
+      "samir": {
+        "name": "Samir Mesbah",
+        "role": "Business Analyst & Frontend Developer",
+        "bio": "Captain Samir Mesbah combines military leadership with advanced technical expertise gained from his 10-year service as a Digital Transformation and Information Management Officer. With a background in Computer Science and Graphics Design, he specializes in Business Analysis and Frontend Development. His expertise in Full Stack Development and Systems Architecture enables him to transform complex requirements into user-centric solutions that align with strategic objectives."
+      },
+      "michael": {
+        "name": "Michael Laplaine-Pereira",
+        "role": "Frontend/Backend Developer",
+        "bio": "Captain Michael Laplaine-Pereira combines hands-on military leadership with deep technical expertise in software development. During his 10-year tenure as an Operations Officer and Infantry Platoon Commander in the Canadian Armed Forces, he honed his skills in strategic planning and team leadership. His software engineering background, coupled with expertise in both frontend and backend development, allows him to deliver comprehensive technical solutions while maintaining the disciplined approach instilled by his military service."
+      },
+      "jean": {
+        "name": "Jean-Philippe Nadeau",
+        "role": "Chief Business Strategist",
+        "bio": "Major Jean-Philippe Nadeau serves as our Chief Business Strategist, bringing 15 years of distinguished service as a Logistics Officer in the Canadian Armed Forces to the corporate sector. His extensive military logistics experience, combined with his formal business education, gives him a unique perspective on organizational efficiency and strategic planning. As a Major, he applies the same precision and systematic approach to business strategy that he used in military logistics operations, ensuring our company's growth aligns with clear strategic objectives."
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Our Portfolio",
+    "subtitle": "Showcasing Innovation and Excellence",
+    "projects": {
+      "enterprise": {
+        "title": "Enterprise Resource Management",
+        "description": "A comprehensive ERP solution for large-scale manufacturing operations, featuring real-time analytics and predictive maintenance capabilities.",
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80"
+      },
+      "healthcare": {
+        "title": "Healthcare Analytics Platform",
+        "description": "Advanced patient data analytics system with secure data handling and AI-powered insights for healthcare providers.",
+        "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=800&q=80"
+      },
+      "logistics": {
+        "title": "Military Logistics System",
+        "description": "Custom logistics management solution for military operations, featuring real-time tracking and inventory optimization.",
+        "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=800&q=80"
+      }
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive Solutions for Modern Businesses",
+    "web": {
+      "title": "Web Applications",
+      "description": "Modern, responsive web applications built with cutting-edge technologies"
+    },
+    "mobile": {
+      "title": "Mobile Apps",
+      "description": "Native and cross-platform solutions for iOS and Android"
+    },
+    "desktop": {
+      "title": "Windows Applications",
+      "description": "Custom Windows solutions optimized for performance and usability"
+    },
+    "database": {
+      "title": "Database Solutions",
+      "description": "Scalable database architectures and optimization services"
+    },
+    "enterprise": {
+      "title": "Enterprise Platforms",
+      "description": "Microsoft Power Platform and Oracle APEX solutions for enterprise needs"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Ready to start your digital transformation? Get in touch with us today.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Message sent successfully! We'll be in touch soon.",
+      "error": "There was an error sending your message. Please try again."
+    }
+  }
+}
